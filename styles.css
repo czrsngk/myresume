@@ -1,0 +1,30 @@
+body {
+  padding: 25px;
+  font-family: 'Open Sans';
+  background-color: #E0FFFF;
+}
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+h4 {
+  background-color: #AFEEEE;
+}
+.media {
+  text-indent: 12px;
+}
+.awards {
+  text-indent: 12px;
+  font-style: italic;
+}
